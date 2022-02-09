@@ -2,7 +2,7 @@ import java.io.File;  //  File class
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Project4 {
+public class FindTheSum {
 	  public static void main(String args[]) {
 		
 		int numElements;
